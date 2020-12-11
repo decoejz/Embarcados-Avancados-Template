@@ -28,7 +28,7 @@ As funções de inicialização e finalização são utilizadas para preparar os
 
 A função de escrita é onde de fato esta o funcionamento do driver onde ele receberá sempre um buffer com um certo padrão. Esse padrão permitirá que os leds sejam manipulados da melhor forma possível. 
 
-*Obs: O padrão esta melhor explicado na sessão [Iniciando com uma Função Simples](#iniciando-com-uma-função-simples)*
+*Obs: O padrão esta melhor explicado na sessão [Iniciando com uma Função Simples](#iniciando-com-uma-funcao-simples)*
 
 A função de leitura não faz nada para o driver criado.
 
